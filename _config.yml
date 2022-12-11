@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: avisec
+title: profmoriarity
 email: sivakrishna.itsec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am siva. I  write about security stuff mostly application security, bug bounties and red teaming.
